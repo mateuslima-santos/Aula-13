@@ -1,4 +1,4 @@
-Mateus de Lima dos Santos
+Mateus de Lima dos Santos, Natan Vitor de Andrade
 
 Desenvolver uma tela de login estática utilizando o framework Bootstrap, aplicando conceitos de estruturação HTML e estilização com classes prontas.
 
