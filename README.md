@@ -43,3 +43,6 @@ A aplicação deve atender aos seguintes critérios de qualidade:
 - Utilização adequada das classes do Bootstrap (`container`, `row`, `col`, `form-control`, `btn`, etc.)
 - Código HTML bem estruturado e identado
 - Uso correto de tags semânticas
+
+<img src="assets/images/up and running.png" alt="Site rodando.">
+

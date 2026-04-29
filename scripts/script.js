@@ -1,6 +1,7 @@
 let cadastro = false;
 
-document.getElementById("toggle").onclick = () => {
+document.getElementById("toggle").onclick = (e) => {
+    e.preventDefault();
     cadastro = !cadastro;
     document.getElementById("titulo").innerText = cadastro ? "Cadastro" : "Login";
     document.querySelector("button").innerText = cadastro ? "Cadastrar" : "Entrar";
